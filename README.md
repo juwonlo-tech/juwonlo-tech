@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @juwonlo-tech
+- 👋 Hi, I’m @juwon
 - 👀 I’m interested in using technology to help make decisions by learning from previous scenerios and results. 
 Simply put,data science and machine learning.
-- 🌱 I’m currently learning data exploration and machine learning
+- 🌱 I’m currently learning data exploration (analysis and visualization) and machine learning
 - 💞️ I’m looking to collaborate on Data Analytics, Business Intelligence, and Data Science and Machine Learning projects
 - 📫 You can reach me via my email: toluwasejuwonlo@gmail.com 
 
